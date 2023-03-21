@@ -1,0 +1,14 @@
+E:\tata\Pemrog\Calkulator_4814\Calkulator_4814\obj\Debug\netcoreapp3.1\Calkulator_4814.csproj.AssemblyReference.cache
+E:\tata\Pemrog\Calkulator_4814\Calkulator_4814\obj\Debug\netcoreapp3.1\Calkulator_4814.GeneratedMSBuildEditorConfig.editorconfig
+E:\tata\Pemrog\Calkulator_4814\Calkulator_4814\obj\Debug\netcoreapp3.1\Calkulator_4814.AssemblyInfoInputs.cache
+E:\tata\Pemrog\Calkulator_4814\Calkulator_4814\obj\Debug\netcoreapp3.1\Calkulator_4814.AssemblyInfo.cs
+E:\tata\Pemrog\Calkulator_4814\Calkulator_4814\obj\Debug\netcoreapp3.1\Calkulator_4814.csproj.CoreCompileInputs.cache
+E:\tata\Pemrog\Calkulator_4814\Calkulator_4814\bin\Debug\netcoreapp3.1\Calkulator_4814.exe
+E:\tata\Pemrog\Calkulator_4814\Calkulator_4814\bin\Debug\netcoreapp3.1\Calkulator_4814.deps.json
+E:\tata\Pemrog\Calkulator_4814\Calkulator_4814\bin\Debug\netcoreapp3.1\Calkulator_4814.runtimeconfig.json
+E:\tata\Pemrog\Calkulator_4814\Calkulator_4814\bin\Debug\netcoreapp3.1\Calkulator_4814.runtimeconfig.dev.json
+E:\tata\Pemrog\Calkulator_4814\Calkulator_4814\bin\Debug\netcoreapp3.1\Calkulator_4814.dll
+E:\tata\Pemrog\Calkulator_4814\Calkulator_4814\bin\Debug\netcoreapp3.1\Calkulator_4814.pdb
+E:\tata\Pemrog\Calkulator_4814\Calkulator_4814\obj\Debug\netcoreapp3.1\Calkulator_4814.dll
+E:\tata\Pemrog\Calkulator_4814\Calkulator_4814\obj\Debug\netcoreapp3.1\Calkulator_4814.pdb
+E:\tata\Pemrog\Calkulator_4814\Calkulator_4814\obj\Debug\netcoreapp3.1\Calkulator_4814.genruntimeconfig.cache

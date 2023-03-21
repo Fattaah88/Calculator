@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Calkulator_4814/1.0.0": {
+        "runtime": {
+          "Calkulator_4814.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Calkulator_4814/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "OE0tKqwJUMRcVXxkycirEs+7VGaiJlH4XG8sTSAJbp15SnNCaBu7JkZVS7IBmj3Px9y2GCpm/iyhWkaksKY+PA==",
+  "success": true,
+  "projectFilePath": "E:\\tata\\Pemrog\\Calkulator_4814\\Calkulator_4814\\Calkulator_4814.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\DELL\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512"
+  ],
+  "logs": []
+}
